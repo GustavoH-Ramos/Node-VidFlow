@@ -26,5 +26,5 @@ Para isso, aprenderemos a utilizar o **Node.js**, necessário para aplicar todas
 [Acesse o Figma do Vidflow](https://www.figma.com/file/a0crwitCtGmNIQW0RVIs5H/VidFlow-%7C-Curso-Js---Consumindo-dados-de-uma-API?node-id=0%3A1&mode=dev).
 
 ## 🛠️ Abrir o projeto 
-
+<a href = "https://node-vid-flow.vercel.app/" class = "link">Clique aqui para acessar o projeto</a>
 
